@@ -1,0 +1,3 @@
+namespace Classes.Enums;
+
+public
